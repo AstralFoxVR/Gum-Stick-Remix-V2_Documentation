@@ -440,8 +440,8 @@ Put the hub frame into the base and then put the wires through the spacer frame 
 
 2. **Skip this step if you have at least two V4 JST SUR 110mm wire harnesses.**  
 You have two option if you don't have them:  
-- You can buy some from the [ETVR store](https://store.eyetrackvr.dev/products/2x-110mm-replacement-wires "ETVR store V4 JST SUR 110mm wire harnesses link (11/26)") or  
-- You do my method described below, where you will DIY these wires.   
+* You can buy some from the [ETVR store](https://store.eyetrackvr.dev/products/2x-110mm-replacement-wires "ETVR store V4 JST SUR 110mm wire harnesses link (11/26)") or  
+* You do my method described below, where you will DIY these wires.   
 **This is NOT A EASY METHOD and you will need good eyes or something to view it closer like a microscope, magnifying glass or phone camera!**     
 	1. Disconnect the last cable that is too short and put it to the side. You should now have a disconnected IR-LED PCBs with a E at the end.   
 	2. Solder a 30 (recommended) or 28 AWG wire to the middle leg of the connector (blue arrow) where a wire is still plugged in.  
@@ -464,9 +464,9 @@ You have two option if you don't have them:
 
 	7. Repeat the **exact** same process for the other side.
 	
-> - The blue arrow show the middle leg of the connector where you need to solder the wire to.
-> - The pink arrow shows the pad where the other end of the soldered wire of the middle leg of the connector needs to be soldered to.
-> - The red arrow shows the pad where the other end of the soldered wire of the copper pad above the logo of the non E board needs to be soldered to.
+> * The blue arrow show the middle leg of the connector where you need to solder the wire to.
+> * The pink arrow shows the pad where the other end of the soldered wire of the middle leg of the connector needs to be soldered to.
+> * The red arrow shows the pad where the other end of the soldered wire of the copper pad above the logo of the non E board needs to be soldered to.
 
 ![Wire soldered to the middle leg of the connector](./Images/Lens_mount_wire_soldered_to_middle_leg.jpg "Wire soldered to the middle leg of the connector")
 
