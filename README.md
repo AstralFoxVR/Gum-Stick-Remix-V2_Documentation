@@ -1,5 +1,5 @@
 # Gum Stick Remix V2 (GSRv2) Guide
-Documentation for the Gum Stick Remix V2 from Renzath
+Documentation for the [Gum Stick Remix V2 from Renzath](https://github.com/Renzath/Renz-Index-EyetrackVR-HW)
 
 
 ---
